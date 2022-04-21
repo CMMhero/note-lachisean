@@ -1,10 +1,10 @@
 # Note Lachisean
 
 A college project.
-Note taking website using php
+PHP note taking website
 
 ## 📝 Note Lachisean
-Website: <http://note-lachisean.rf.gd>
+Demo: <http://note-lachisean.rf.gd>
 
 ## 📸 Screenshots
 ![Register Page](.screenshots/Register.png)
