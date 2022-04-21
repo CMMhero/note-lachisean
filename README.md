@@ -7,7 +7,7 @@ PHP note taking website
 Demo: <http://note-lachisean.rf.gd>
 
 ## 📸 Screenshots
-![Register Page](.screenshots/Register.png)
+![Register Page](./screenshots/Register.png)
 ![Login Page](./screenshots/Login.png)
 ![Home Page](./screenshots/MyNotes.png)
 ![Error Page](./screenshots/Error.png)
